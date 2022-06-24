@@ -1,0 +1,96 @@
+body{
+     background-color:#ffffff;
+     align-items:center;
+  padding:0 30px;
+}
+ .encabezado{
+     font-size :100px;
+     border:solid;
+     color:#DBF00E  ;
+     background-color:#62DA26;
+     padding:100px;
+}
+
+ #primeraimagen{
+     height:300px;
+     width:300px;
+   margin-top: 30px;
+}
+ #imagendelagua{
+     height:300px;
+     width:300px;
+    margin-top: 30px;
+}
+
+ #residuos{
+     height:300px;
+     width:300px;
+   margin-top: 30px;
+}
+ #energia{
+     height:300px;
+     width:300px;
+   margin-top: 30px;
+}
+ #ruidos{
+     height:300px;
+     width:300px;
+   margin-top: 30px;
+}
+ .contenedores{
+  text-align: center;
+ }
+ p{
+     text-align:justify;
+}
+
+ .ca{
+     color:#ffea00;
+     border:solid;
+     text-align:justify;
+   padding: 20px 10px;
+}
+ .cb{
+     color: blue;
+     border:solid;
+     text-align:justify;
+    padding: 20px 10px;
+}
+
+ .cv{
+     color: green;
+     border: solid ;
+     text-align:justify;
+    padding: 20px 10px;
+}
+
+ .cm{
+     color: #6e4f0d;
+     border:solid;
+     text-align:justify;
+    padding: 20px 10px;
+}
+ .cr{
+     color: red;
+     border:solid;
+     text-align:justify;
+    padding: 20px 10px;
+}
+ .cn{
+     color: orange;
+     border:solid;
+     text-align:justify;
+    padding: 20px 10px;
+}
+
+ .cef{
+     color: #6cd56e;
+     border:solid;
+     text-align:justify;
+    padding: 20px 10px;
+}
+.reglasr{
+  color:#000000  ;
+    border:3px solid #34dad7 ;
+  margin-top:30px;
+}
